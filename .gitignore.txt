@@ -1,2 +1,0 @@
-Scrabble.cs
-Readability.cs

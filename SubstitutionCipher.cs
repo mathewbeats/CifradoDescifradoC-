@@ -196,31 +196,7 @@ public class SubstitutionCipher
     }
 
 
-    // public class Program
-    // {
-    //     public static void Main(string[] args)
-    //     {
-    //         Console.WriteLine("Por favor, introduzca la clave para el cifrado (debe tener 26 caracteres únicos):");
-    //         string key = Console.ReadLine();
-    //         if (!SubstitutionCipher.ValidateKey(key))
-    //         {
-    //             Console.WriteLine("La clave no es válida.");
-    //             return; // Salir si la clave no es válida
-    //         }
-
-    //         Console.WriteLine("Introduce el texto a cifrar:");
-    //         string text = Console.ReadLine();
-
-    //         string encryptedText = SubstitutionCipher.CifrarTexto(text, key);
-    //         if (encryptedText != null)
-    //         {
-    //             Console.WriteLine($"Texto cifrado: {encryptedText}");
-    //         }
-    //     }
-    // }
-
-
-
+   
     //     Función DescifrarTexto(textoCifrado, clave)
 
     //     Si no es válida la clave
