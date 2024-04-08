@@ -1,0 +1,15 @@
+C:\Users\practicas\Desktop\ConsoleApp1\Cs50\bin\Debug\net8.0\Cs50.exe
+C:\Users\practicas\Desktop\ConsoleApp1\Cs50\bin\Debug\net8.0\Cs50.deps.json
+C:\Users\practicas\Desktop\ConsoleApp1\Cs50\bin\Debug\net8.0\Cs50.runtimeconfig.json
+C:\Users\practicas\Desktop\ConsoleApp1\Cs50\bin\Debug\net8.0\Cs50.dll
+C:\Users\practicas\Desktop\ConsoleApp1\Cs50\bin\Debug\net8.0\Cs50.pdb
+C:\Users\practicas\Desktop\ConsoleApp1\Cs50\obj\Debug\net8.0\Cs50.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\practicas\Desktop\ConsoleApp1\Cs50\obj\Debug\net8.0\Cs50.AssemblyInfoInputs.cache
+C:\Users\practicas\Desktop\ConsoleApp1\Cs50\obj\Debug\net8.0\Cs50.AssemblyInfo.cs
+C:\Users\practicas\Desktop\ConsoleApp1\Cs50\obj\Debug\net8.0\Cs50.csproj.CoreCompileInputs.cache
+C:\Users\practicas\Desktop\ConsoleApp1\Cs50\obj\Debug\net8.0\Cs50.sourcelink.json
+C:\Users\practicas\Desktop\ConsoleApp1\Cs50\obj\Debug\net8.0\Cs50.dll
+C:\Users\practicas\Desktop\ConsoleApp1\Cs50\obj\Debug\net8.0\refint\Cs50.dll
+C:\Users\practicas\Desktop\ConsoleApp1\Cs50\obj\Debug\net8.0\Cs50.pdb
+C:\Users\practicas\Desktop\ConsoleApp1\Cs50\obj\Debug\net8.0\Cs50.genruntimeconfig.cache
+C:\Users\practicas\Desktop\ConsoleApp1\Cs50\obj\Debug\net8.0\ref\Cs50.dll
